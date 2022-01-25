@@ -36,12 +36,12 @@ body {
   font-weight: 700;
   background: lavender;
   width: 32px;
-  height: 10px;
+  height: 32px;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 15px;
+  flex-shrink: 0;
 }
 
 .container {
